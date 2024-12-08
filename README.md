@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java**<br>
 - 👯 I’m looking to collaborate on **ABC-Cinema-Reservation-System**<br>
 - 🤝 I’m looking for help with **Java**<br>
-- 📝 I regularly write articles on [https://lonithaperera.blogspot.com/](https://lonithaperera.blogspot.com/)<br>
+- 📝 I regularly write articles on [https://lonithaperera.blogspot.com/]<br>
 - 📫 How to reach me **loniperera2005@gmail.com**<br>
 - ⚡ Fun fact **Call me Loniii ^_^**
 </p>
